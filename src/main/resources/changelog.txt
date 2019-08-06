@@ -1,6 +1,28 @@
 ﻿BossShopPro
 by Felix Neubauer
 
+v2.0.8
+* [FIX] Fixed selling items no longer working
+
+
+v2.0.7
+*[ADD] Added CustomModelData support
+*[UPDATE] Updated EpicSpawners support
+*[UPDATE] Updated PlaceholderAPI support
+Update by ItsMeGlare
+
+
+v2.0.6 [BETA]
+*[ADD] Added weather condition
+*[IMPROVE] Improved playerhead ItemData
+Update by ItsMeGlare
+
+
+v2.0.5
+*[UPDATE] Updated EpicSpawners support
+*[FIX] Fixed signs not working
+
+
 v2.0.4 [BETA]
 *[NOTE] Still supports Spigot 1.13.*. If you use an older Spigot version than 1.13.*  use BossShopPro v1.9.8 or older.
 *[UPDATE] Updated to Spigot 1.14
